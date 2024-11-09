@@ -10,3 +10,8 @@ export const geistMono = localFont({
   variable: "--font-geist-mono",
   weight: "100 900",
 });
+export const spaceGrotesk = localFont({
+  src: "../fonts/SpaceGroteskVF.ttf",
+  variable: "--font-spaceGrotesk",
+  weight: "300 700",
+});
